@@ -9,7 +9,9 @@ An open-source file encrypter/decrypter/corruptor, but it's Hatsune Miku.
 
 ## Features ✨
 
-- **Encrypt Files**: Secure your files using advanced encryption methods.
+With aesthetics inspired by [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam), this project allows you to:
+
+- **Encrypt Files**: Secure your files using AES-256 encryption.
 - **Decrypt Files**: Easily decrypt your encrypted files.
 - **File Corruption**: Corrupt files for testing purposes.
 
@@ -37,6 +39,8 @@ Run development server:
 ```sh
 npm run dev
 ```
+
+
 
 ## License
 
