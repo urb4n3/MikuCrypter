@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+.logs-container {
+    height: 200px; /* Fixed height from the start */
+    overflow-y: auto;
+  }
+  
+  /* Hide the scrollbar for a minimal look */
+  .logs-container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .logs-container {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
