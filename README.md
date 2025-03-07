@@ -13,7 +13,7 @@ With aesthetics inspired by [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBe
 
 - **Encrypt Files**: Secure your files using AES-256 encryption.
 - **Decrypt Files**: Easily decrypt your encrypted files.
-- **File Corruption**: Corrupt files for testing purposes.
+- **File Corruption**: Corrupt files for whatever reason.
 
 ## Installation 📦
 
@@ -40,8 +40,9 @@ Run development server:
 npm run dev
 ```
 
+## TODO 📝
+- Add miku soundeffects
 
-
-## License
+## License 📜
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
